@@ -5,7 +5,7 @@ const descEl = document.getElementById('detail-desc');
 const ctrlEl = document.getElementById('detail-controls');
 
 // Updated Path
-const iconBasePath = '../Images/UI/Icons/Buttons%20PS/';
+const iconBasePath = './Images/UI/Icons/Buttons%20PS/';
 
 // --- ANALOG ICON CHECKLIST ---
 const analogIconsList = [
