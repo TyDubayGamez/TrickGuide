@@ -1,0 +1,1410 @@
+[
+    {
+        "name": "Flip Tricks",
+        "description": "The core of your skating tricks. Master your board control with Flick-it.",
+        "controls": "",
+        "sub_items": [
+            {
+                "name": "Ollie Flips",
+                "description": "Pull down then flick up and you are in the world of ollie tricks.",
+                "sub_items": [
+                    {
+                        "name": "Ollie",
+                        "description": "Pull down to get ready then flick all the way up to ollie. Crouch longer and flick faster to ollie higher.",
+                        "controls": "O_U"
+                    },
+                    {
+                        "name": "Kickflip",
+                        "description": "Flick on an angle towards your heelside. Originally named the \"magic flip\" because no one understood how it worked.",
+                        "controls": "K_BR"
+                    },
+                    {
+                        "name": "Heelflip",
+                        "description": "Flick-it on angle towards your toeside. The last part of the foot to leave the board is the heel, hence the name.",
+                        "controls": "K_BL"
+                    },
+                    {
+                        "name": "Pop Shuvit",
+                        "description": "Pull down then swing it up around the heelside to ollie and shuve the board. The board will do a 180.",
+                        "controls": "P_BR"
+                    },
+                    {
+                        "name": "FS Pop Shuvit",
+                        "description": "Pull down then swing it up around the toeside to shuvit fronside.",
+                        "controls": "P_BL"
+                    },
+                    {
+                        "name": "360 Pop Shuvit",
+                        "description": "The starting position is down and off to one side, then swing around the bottom and up.",
+                        "controls": "3P_BL"
+                    },
+                    {
+                        "name": "FS 360 Pop Shuvit",
+                        "description": "Learning the starting point is important. Watch the feet, they will move when you are in the right spot.",
+                        "controls": "3P_BR"
+                    },
+                    {
+                        "name": "Varial Kickflip",
+                        "description": "Pop-Shuvit combined with a kickflip. It may help to think kof the Flick-it movements like check marks.",
+                        "controls": "V_BR"
+                    },
+                    {
+                        "name": "Inward Heelflip",
+                        "description": "Pop-Shuvit combined with a heelflip. The mirror of this trick is the Hardflip.",
+                        "controls": "H_BL"
+                    },
+                    {
+                        "name": "Varial Heelflip",
+                        "description": "FS pop-shuvit combined with a heelflip.",
+                        "controls": "V_BL"
+                    },
+                    {
+                        "name": "Hardflip",
+                        "description": "FS pop-shuvit combined with a kickflip. It can be very awkward to pull off.",
+                        "controls": "H_BR"
+                    },
+                    {
+                        "name": "360 Flip",
+                        "description": "Start it like a 360 Pup-Shuvit, but finish with a kickflip. Also knows as a 360 Kickflip, 3-Flip or Tr\u00e9 Flip.",
+                        "controls": "3F_BL"
+                    },
+                    {
+                        "name": "360 Inward Heelflip",
+                        "description": "360 Pop-Shuvit combined with a heelflip. Crazy trick.",
+                        "controls": "3H_BL"
+                    },
+                    {
+                        "name": "Laser Flip",
+                        "description": "Simply a FS 360 Pop-Shuvit with a Heelflip. This is the opposite of a 360 Flip.",
+                        "controls": "3F_BR"
+                    },
+                    {
+                        "name": "360 Hardflip",
+                        "description": "Chris Cole pulled this combination of a FS 360 Pop-Shuvit with a kickflip. Just watch it",
+                        "controls": "3H_BR"
+                    },
+                    {
+                        "name": "Double Kickflip",
+                        "description": "Flick then hold the end of the kickflip to keep the board flipping.",
+                        "controls": "K_BR"
+                    },
+                    {
+                        "name": "Triple Kickflip",
+                        "description": "Need more air time to get a triple kickflip to make it around.",
+                        "controls": "K_BR"
+                    },
+                    {
+                        "name": "Quad Kickflip",
+                        "description": "Yes, Quad Kickflips have been done in reality. In the game you just have to keep holding.",
+                        "controls": "K_BR"
+                    },
+                    {
+                        "name": "Double Heelflip",
+                        "description": "Flick then hold the end of the heelflip to keep it flipping.",
+                        "controls": "K_BL"
+                    },
+                    {
+                        "name": "Triple Heelflip",
+                        "description": "Find something to jump off to try a Triple and release to land.",
+                        "controls": "K_BL"
+                    },
+                    {
+                        "name": "Quad Heelflip",
+                        "description": "Hold it. Quad flips are the most you can do.",
+                        "controls": "K_BL"
+                    }
+                ]
+            },
+            {
+                "name": "Nollie Flips",
+                "description": "Nollie tricks are done off the nose of the board.   Push forward then flick all the way down.",
+                "sub_items": [
+                    {
+                        "name": "Nollie",
+                        "description": "An ollie performed off the nose. Push forward then flick all the way down to Nollie.",
+                        "controls": "O_D"
+                    },
+                    {
+                        "name": "Nollie Heelflip",
+                        "description": "Flick the Nollie on an angle towards your toeside. The flip will be done with your back foot.",
+                        "controls": "K_TL"
+                    },
+                    {
+                        "name": "Nollie Kickflip",
+                        "description": "Flick down on an angle towards your heelside.",
+                        "controls": "K_TR"
+                    },
+                    {
+                        "name": "Nollie Pop Shuvit",
+                        "description": "Push forward then swing it around the heelside to pop a Nollie and shuv the board.",
+                        "controls": "P_TR"
+                    },
+                    {
+                        "name": "Nollie FS Pop Shuvit",
+                        "description": "Push forward then swing it around the toeside to shuvit frontside.",
+                        "controls": "P_TL"
+                    },
+                    {
+                        "name": "Nollie 360 Pop Shuvit",
+                        "description": "The starting position is off to one side of the top.",
+                        "controls": "3P_TL"
+                    },
+                    {
+                        "name": "Nollie FS 360 Pop Shuvit",
+                        "description": "Find the starting points to learn your 360 shuvits and that will open the door for harder tricks.",
+                        "controls": "3P_TR"
+                    },
+                    {
+                        "name": "Nollie Varial Kickflip",
+                        "description": "Nollie Pop-Shuvit combined with a Nollie Kickflip.",
+                        "controls": "V_TR"
+                    },
+                    {
+                        "name": "Nollie Inward Heelflip",
+                        "description": "The opposite side and flip of the Varial Kickflip. Flip Tricks respond based on which way you are standing.",
+                        "controls": "H_TL"
+                    },
+                    {
+                        "name": "Nollie Hardflip",
+                        "description": "Nollie FS Pop-Shuvit finished with a Nollie Kickflip all combined into one movement.",
+                        "controls": "H_TR"
+                    },
+                    {
+                        "name": "Nollie Varial Heelflip",
+                        "description": "If you can do the Nollie Hardflip then you can do this one easy enough when you are standing the other way.",
+                        "controls": "V_TL"
+                    },
+                    {
+                        "name": "Nollie 360 Flip",
+                        "description": "Start like a Nollie 360 Pop-Shuvit then finish with a Nollie Kickflip.",
+                        "controls": "3F_TL"
+                    },
+                    {
+                        "name": "Nollie 360 Inward Heelflip",
+                        "description": "Equally as crazy as the regular version.",
+                        "controls": "3H_TL"
+                    },
+                    {
+                        "name": "Nollie Laser Flip",
+                        "description": "Nollie 360 Pop-Shuvit Heelflip.",
+                        "controls": "3F_TR"
+                    },
+                    {
+                        "name": "Nollie 360 Hardflip",
+                        "description": "See if you can call it before you do it to prove you didn't just get lucky.",
+                        "controls": "3H_TR"
+                    },
+                    {
+                        "name": "Nollie Double Heelflip",
+                        "description": "Hold the end of the Nollie Heelflip to keep the board flipping.",
+                        "controls": "K_TL"
+                    },
+                    {
+                        "name": "Nollie Triple Heelflip",
+                        "description": "You will need to get some more air time to pull off triples.",
+                        "controls": "K_TL"
+                    },
+                    {
+                        "name": "Nollie Quad Heelflip",
+                        "description": "Just keep holding, but it won't go any more than four.",
+                        "controls": "K_TL"
+                    },
+                    {
+                        "name": "Nollie Double Kickflip",
+                        "description": "Nollie back at an angle towards the heel side and hold.",
+                        "controls": "K_TR"
+                    },
+                    {
+                        "name": "Nollie Triple Kickflip",
+                        "description": "You can do double flips on flat ground, but need more air to try triples.",
+                        "controls": "K_TR"
+                    },
+                    {
+                        "name": "Nollie Quad Kickflip",
+                        "description": "One, Two, Three and Four. Crazy.",
+                        "controls": "K_TR"
+                    }
+                ]
+            },
+            {
+                "name": "Late Flips",
+                "description": "Most flip tricks start on the ground, but you can also throw down tricks while you are in the air.",
+                "sub_items": [
+                    {
+                        "name": "Late Kickflip",
+                        "description": "From the center, pull down and flick back up quickly.",
+                        "controls": "K_BR"
+                    },
+                    {
+                        "name": "Late Heelflip",
+                        "description": "You have to start in the center to do late flips. Then do it quick.",
+                        "controls": "K_BL"
+                    },
+                    {
+                        "name": "Late Backfoot Heelflip",
+                        "description": "Late backfoot flips are similar to a nollie and also need to start from the center.",
+                        "controls": "K_TL"
+                    },
+                    {
+                        "name": "Late Backfoot Kickflip",
+                        "description": "Late flips won't work if the skater is already doing a flip trick. Wait for them to end.",
+                        "controls": "K_TR"
+                    },
+                    {
+                        "name": "Late Shuvit",
+                        "description": "Late shuvits take the same motion as Pop-Shuvits and can be done from the bottom to the top or the top to the bottom.",
+                        "controls": "LS_BR"
+                    },
+                    {
+                        "name": "Late FS Shuvit",
+                        "description": "The board will rotate in same direction that your move the right stick.",
+                        "controls": "LS_BL"
+                    }
+                ]
+            },
+            {
+                "name": "Dark Catches",
+                "description": "Catch the board with your feet while it is upside down.",
+                "sub_items": [
+                    {
+                        "name": "Nollie Kickflip Dark Catch",
+                        "description": "Darkcatches are done by catching the board with your feet, while it is flipping upside down.",
+                        "controls": "RB + K_TR"
+                    },
+                    {
+                        "name": "Kickflip Dark Catch",
+                        "description": "Darkcatches are done by catching the board with your feet, while it is flipping upside down.",
+                        "controls": "RB + K_BR"
+                    },
+                    {
+                        "name": "Nollie Heelflip Dark Catch",
+                        "description": "Darkcatches are done by catching the board with your feet, while it is flipping upside down.",
+                        "controls": "RB + K_TL"
+                    },
+                    {
+                        "name": "Heelflip Dark Catch",
+                        "description": "Darkcatches are done by catching the board with your feet, while it is flipping upside down.",
+                        "controls": "RB + K_BL"
+                    }
+                ]
+            },
+            {
+                "name": "Underflips",
+                "description": "Quickly and smoothly flip the board in the opposite direction to perform an underflip.",
+                "sub_items": [
+                    {
+                        "name": "Nollie Kickflip Underflip",
+                        "description": "Flipping the board while it is already flipping is called an Underflip. Quickly flick the right stick in the opposite direction of your fliptrick.",
+                        "controls": "KU_TR"
+                    },
+                    {
+                        "name": "Heelflip Underflip",
+                        "description": "Flipping the board while it is already flipping is called an Underflip. Quickly flick the right stick in the opposite direction of your fliptrick.",
+                        "controls": "KU_BL"
+                    },
+                    {
+                        "name": "Nollie Pop Shuvit Underflip",
+                        "description": "Flipping the board while it is already flipping is called an Underflip. Quickly flick the right stick in the opposite direction of your fliptrick.",
+                        "controls": "PU_TL"
+                    },
+                    {
+                        "name": "Nollie Heelflip Underflip",
+                        "description": "Flipping the board while it is already flipping is called an Underflip. Quickly flick the right stick in the opposite direction of your fliptrick.",
+                        "controls": "KU_TL"
+                    },
+                    {
+                        "name": "Pop Shuvit Underflip",
+                        "description": "Flipping the board while it is already flipping is called an Underflip. Quickly flick the right stick in the opposite direction of your fliptrick.",
+                        "controls": "PU_BR"
+                    },
+                    {
+                        "name": "Kickflip Underflip",
+                        "description": "Flipping the board while it is already flipping is called an Underflip. Quickly flick the right stick in the opposite direction of your fliptrick.",
+                        "controls": "KU_BR"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Grab Tricks",
+        "description": "Grabs, One-Foots, Fingerflips, Footplants, and more!",
+        "sub_items": [
+            {
+                "name": "Grabs",
+                "description": "Grab then tweak or tweak then grab. Either hand or both. Every combination is a different grab you can do in the air.",
+                "sub_items": [
+                    {
+                        "name": "BS Grab",
+                        "description": "Grab the heel side of the board with your front hand. You do know which one is your front hand, don't you?",
+                        "controls": "RT"
+                    },
+                    {
+                        "name": "FS Grab",
+                        "description": "It is good to know which hand is your toe side. That hand is for your FS Grabs.",
+                        "controls": "LT"
+                    },
+                    {
+                        "name": "Double Grab",
+                        "description": "Air grab with both hands! You can tweak it a little just for fun or go for the Superdude.",
+                        "controls": "LT + RT"
+                    },
+                    {
+                        "name": "Nosebone",
+                        "description": "Grab FS then push the board forwards to bone it out.",
+                        "controls": "LT + T_T"
+                    },
+                    {
+                        "name": "Tailbone",
+                        "description": "Opposite of the Nosebone. Grab FS then pull the board back to point the tail.",
+                        "controls": "LT + T_B"
+                    },
+                    {
+                        "name": "Stiffy",
+                        "description": "Grab FS then tweak the board out on the same side. You'll know it when you see it.",
+                        "controls": "LT + T_L"
+                    },
+                    {
+                        "name": "Tuck Knee",
+                        "description": "Also known as a Japan Air. Tweak the FS Grab towards your heel side to drop the knee.",
+                        "controls": "LT + T_R"
+                    },
+                    {
+                        "name": "No-Foot Air",
+                        "description": "Artist interpretation of a FS Christ Air. FS Grab then hold the button. Release if you actually want to land it.",
+                        "controls": "LT + B"
+                    },
+                    {
+                        "name": "BS Tweak",
+                        "description": "Grab BS then pull the board back to get into this tweak.",
+                        "controls": "RT + T_B"
+                    },
+                    {
+                        "name": "Melon",
+                        "description": "Melon is a nosebone backside grab. Grab BS then push the board forwards.",
+                        "controls": "RT + T_T"
+                    },
+                    {
+                        "name": "Cross Bone",
+                        "description": "Grab BS then tweak it across towards your toe side.",
+                        "controls": "RT + T_L"
+                    },
+                    {
+                        "name": "Method",
+                        "description": "Originally invented it as a \"method\" for getting higher on a backside air. Grab BS then tweak it out on the same side.",
+                        "controls": "RT + T_R"
+                    },
+                    {
+                        "name": "Nose Grab",
+                        "description": "First pull the board back to lift up the nose. Then grab with your front hand. Tweak first or you mihght end up in a Melon.",
+                        "controls": "T_B SQ RT"
+                    },
+                    {
+                        "name": "Tail Grab",
+                        "description": "First push the board forward. Then grab with your back hand. Wrong hand and you will be in a Seatbelt.",
+                        "controls": "T_T SQ LT"
+                    },
+                    {
+                        "name": "Christ Air",
+                        "description": "BS Grab then hold the button to extend arms and legs and look like a capital 'T'.",
+                        "controls": "RT + B"
+                    },
+                    {
+                        "name": "BS Shifty Nose Grab",
+                        "description": "Get into a nose grab then tweak it off to the toe side.",
+                        "controls": "T_D SQ RT SQ T_L"
+                    },
+                    {
+                        "name": "FS Shifty Nose Grab",
+                        "description": "Get into a nose grab then tweak it off to the heel side.",
+                        "controls": ""
+                    },
+                    {
+                        "name": "FS Shifty Tail Grab",
+                        "description": "Get into a tail grab then tweak it off to the heel side.",
+                        "controls": "T_D SQ RT SQ T_R"
+                    },
+                    {
+                        "name": "BS Shifty Tail Grab",
+                        "description": "Get into a tail grab then tweak it off to the toe side.",
+                        "controls": "T_T SQ LT SQ T_L"
+                    },
+                    {
+                        "name": "Stale",
+                        "description": "The full name is Stale Fish, like it or not. First turn the board sideways. Then grab on with your back hand.",
+                        "controls": "T_R SQ LT"
+                    },
+                    {
+                        "name": "Mute",
+                        "description": "First turn the board sideways. Then grab on with your front hand.",
+                        "controls": "T_R SQ RT"
+                    },
+                    {
+                        "name": "Stale Tailbone",
+                        "description": "Get into a Stale Grab then pull the board down to point the tail.",
+                        "controls": "T_R SQ LT SQ T_B"
+                    },
+                    {
+                        "name": "Stale Nosebone",
+                        "description": "Get into a Stale Grab then push the board forward to bone out the nose.",
+                        "controls": "T_R SQ LT SQ T_T"
+                    },
+                    {
+                        "name": "Stale Tuck Knee",
+                        "description": "Get into a Stale Grab then tweak the board back under the skater to tuck the knees.",
+                        "controls": "T_R SQ LT SQ T_L"
+                    },
+                    {
+                        "name": "Mute Nosebone",
+                        "description": "Get into a Mute Grab then push the board forward to bone out the nose.",
+                        "controls": "T_R SQ RT SQ T_T"
+                    },
+                    {
+                        "name": "Mute Tailbone",
+                        "description": "Get into a Mute Grab then pull the board down to point the tail.",
+                        "controls": "T_R SQ RT SQ T_B"
+                    },
+                    {
+                        "name": "Mute Tuck Knee",
+                        "description": "Get into a Mute Grab then tweak the board back under the skater to tuck the knees.",
+                        "controls": "T_R SQ RT SQ T_L"
+                    },
+                    {
+                        "name": "Superdude",
+                        "description": "Double grab then kick both feet off. Also connects to Christ and No-Foot Airs.",
+                        "controls": "RT + LT + B"
+                    },
+                    {
+                        "name": "Crail",
+                        "description": "You might get this when going for a nose grab. Just pay attention to which hand is which.",
+                        "controls": "T_B SQ LT"
+                    },
+                    {
+                        "name": "Seatbelt",
+                        "description": "Depending on your stand it will be like a passenger side or driver side seatbelt.",
+                        "controls": "T_T SQ RT"
+                    },
+                    {
+                        "name": "BS Shifty Crail",
+                        "description": "Get into a crail grab then tweak it off to the toe side.",
+                        "controls": "T_B SQ LT + T_L"
+                    },
+                    {
+                        "name": "FS Shifty Seatbelt",
+                        "description": "Get into a seatbelt grab then tweak it off to the heel side.",
+                        "controls": "T_T SQ RT + T_R"
+                    },
+                    {
+                        "name": "FS Shifty Crail",
+                        "description": "Get into a crail grab then tweak it off to the heel side.",
+                        "controls": "T_B SQ LT + T_R"
+                    },
+                    {
+                        "name": "BS Shifty Seatbelt",
+                        "description": "Get into a seatbelt grab then tweak it off to the toe side.",
+                        "controls": "T_T SQ RT + T_L"
+                    },
+                    {
+                        "name": "Rocket Air",
+                        "description": "First pull the board back to lift up the nose. Then grab on with both hands Rocketman.",
+                        "controls": "T_B SQ RT SQ LT"
+                    }
+                ]
+            },
+            {
+                "name": "One Foots",
+                "description": "Add even more variety to your tricks by taking off either foot or both.",
+                "sub_items": [
+                    {
+                        "name": "Front Foot",
+                        "description": "Kick off your front foot in the air and release to land it. Some katers call it an Ollie North.",
+                        "controls": "A"
+                    },
+                    {
+                        "name": "Back Foot",
+                        "description": "Kicking off your back foot in the air. Some skaters might call this an Ollie South.",
+                        "controls": "X"
+                    },
+                    {
+                        "name": "Frigid Air",
+                        "description": "FS Grab then kick your front foot off.",
+                        "controls": "LT + A"
+                    },
+                    {
+                        "name": "FS One Foot",
+                        "description": "Get into a FS Grab then kick your abck foot off.",
+                        "controls": "LT + X"
+                    },
+                    {
+                        "name": "Judo",
+                        "description": "Classic kick out from a BS Grab.",
+                        "controls": "RT + X"
+                    },
+                    {
+                        "name": "One Foot",
+                        "description": "Get into a BS Grab then kick out to the back.",
+                        "controls": "RT + A"
+                    },
+                    {
+                        "name": "Dog Piss",
+                        "description": "Nose Grab then kick off your back foot.",
+                        "controls": "T_B SQ RT + X"
+                    },
+                    {
+                        "name": "Judo Nose Grab",
+                        "description": "Nose Grab then Judo.",
+                        "controls": "T_B SQ RT + A"
+                    },
+                    {
+                        "name": "Airwalk",
+                        "description": "Pull the board back, then grab the nose and then kick both feet off.",
+                        "controls": "T_B SQ RT + B"
+                    },
+                    {
+                        "name": "One Foot Tail Grab",
+                        "description": "Tail Grab then kick off your front foot.",
+                        "controls": "T_T SQ LT + A"
+                    },
+                    {
+                        "name": "Benihanna",
+                        "description": "Often discouraged, but always entertaining. Tail Grab then kick off your back foot.",
+                        "controls": "T_T SQ LT + X"
+                    },
+                    {
+                        "name": "Tailwalk",
+                        "description": "A new classic. Push the board forward, then grab the tail, then kick off both feet and release to land.",
+                        "controls": "T_T SQ LT + B"
+                    }
+                ]
+            },
+            {
+                "name": "Fingerflips",
+                "description": "Fingerflips are flip tricks you can do when you are grabbing the board.",
+                "sub_items": [
+                    {
+                        "name": "BS Fingerflip",
+                        "description": "BS Grab then Flick-it.",
+                        "controls": "RT + K_BR"
+                    },
+                    {
+                        "name": "FS Fingerflip",
+                        "description": "Flick-it during a FS Grab to flip the board.",
+                        "controls": "LT + K_BR"
+                    },
+                    {
+                        "name": "FS Varial",
+                        "description": "Get into a FS Grab then shuv the board frontside.",
+                        "controls": "LT + P_BL"
+                    },
+                    {
+                        "name": "BS Varial",
+                        "description": "Get into a BS Grab then shuv the board backside.",
+                        "controls": "RT + P_BL"
+                    },
+                    {
+                        "name": "BS to Mute",
+                        "description": "BS Grab then do a FS shuv to switch to a Mute.",
+                        "controls": "RT + P_BR"
+                    },
+                    {
+                        "name": "FS to Stale",
+                        "description": "FS Grab then shuv the board backside to switch to a Stale.",
+                        "controls": "LT + P_BR"
+                    },
+                    {
+                        "name": "Fingerflip",
+                        "description": "Pull the board back, then grab the nose, then Flick-it.",
+                        "controls": "T_B SQ RT + K_BR"
+                    },
+                    {
+                        "name": "Tail Flip",
+                        "description": "Push the board forward, then grab with your back hand and Flick-it.",
+                        "controls": "T_T SQ LT + K_BR"
+                    },
+                    {
+                        "name": "Stale Flip",
+                        "description": "First figure out the Stale Grab, then just Flick0it.",
+                        "controls": "T_R SQ LT + K_BR"
+                    },
+                    {
+                        "name": "Stale to FS",
+                        "description": "Get into the Stale Grab then shuv the board to switch to a FS Grab.",
+                        "controls": "T_R SQ LT SQ P_BL"
+                    },
+                    {
+                        "name": "Mute Flip",
+                        "description": "Master the Mute Grab, then Flick-it.",
+                        "controls": "T_R SQ RT + K_BR"
+                    },
+                    {
+                        "name": "Mute to BS",
+                        "description": "Mute Grab then shuv it frontside to switch into a BS Grab.",
+                        "controls": "T_R SQ RT SQ P_BL"
+                    },
+                    {
+                        "name": "Crail to Tail",
+                        "description": "Pull the board back, grab the nose with your back hand, then shuvit around to a Tail Grab.",
+                        "controls": "T_B SQ LT SQ P_BR"
+                    },
+                    {
+                        "name": "Seatbelt to Nose",
+                        "description": "Get into a Seatbelt grab, then shuv it to switch to a Nose Grab.",
+                        "controls": "T_T SQ RT SQ P_TL"
+                    }
+                ]
+            },
+            {
+                "name": "Foot Plants",
+                "description": "Footplants are easy as landing during a one foot.",
+                "sub_items": [
+                    {
+                        "name": "Judo Footplant",
+                        "description": "Just hold the Judo while landing, but don't try it going too fast.",
+                        "controls": "RT + X"
+                    },
+                    {
+                        "name": "Fastplant",
+                        "description": "Learn our FS One Foot then jusr hold it to land into a Fastplant.",
+                        "controls": "LT + X"
+                    },
+                    {
+                        "name": "BS Footplant",
+                        "description": "Hold onto the one foot as you land, then find a cooler place to do it.",
+                        "controls": "RT + A"
+                    },
+                    {
+                        "name": "FS Footplant",
+                        "description": "Frigid Air then hold it to land into a FS Footplant.",
+                        "controls": "LT + A"
+                    }
+                ]
+            },
+            {
+                "name": "Boneless",
+                "description": "Boneless tricks are triggered when you push during a ground grab.",
+                "controls": "",
+                "sub_items": [
+                    {
+                        "name": "Bean Plant",
+                        "description": "Grab BS while skating then push with your front foot.",
+                        "controls": "RT + A"
+                    },
+                    {
+                        "name": "BS Fastplant",
+                        "description": "BS Grab then push off with your back foot.",
+                        "controls": "RT + B"
+                    },
+                    {
+                        "name": "FS Boneless",
+                        "description": "FS Grab while skating then push with your front foot. Be careful of your speed.",
+                        "controls": "LT + A"
+                    },
+                    {
+                        "name": "FS Fastplant",
+                        "description": "FS Grab then push off with your back foot.",
+                        "controls": "LT + B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Grinds and Lip Tricks",
+        "description": "All the grinds, slides, and lip tricks in the book and how to do them.",
+        "sub_items": [
+            {
+                "name": "Grinds",
+                "description": "Any grind trick in which the trucks make contact with the rail or ledge.",
+                "sub_items": [
+                    {
+                        "name": "BS 50-50",
+                        "description": "50-50 is when both trucks are grinding. Just line up the grind."
+                    },
+                    {
+                        "name": "FS 50-50",
+                        "description": "50-50 is when both trucks are grinding. Just line up the grind."
+                    },
+                    {
+                        "name": "FS 5-0",
+                        "description": "Pull the board back to do a 5-0 grind, which is half of a 50-50.",
+                        "controls": "T_B"
+                    },
+                    {
+                        "name": "BS 5-0",
+                        "description": "Pull the board back to do a 5-0 grind, which is half of a 50-50.",
+                        "controls": "T_B"
+                    },
+                    {
+                        "name": "FS Nosegrind",
+                        "description": "Line up with the rail and push the board forward to land into a Nose Grind.",
+                        "controls": "T_T"
+                    },
+                    {
+                        "name": "BS Nosegrind",
+                        "description": "Line up with the rail and push the board forward to land into a Nose Grind.",
+                        "controls": "T_T"
+                    },
+                    {
+                        "name": "BS Crooked",
+                        "description": "Also known as a Crooked or K-grind. Crooks is a nose grind twisted off to the side.",
+                        "controls": "T_TR"
+                    },
+                    {
+                        "name": "FS Crooked",
+                        "description": "Approach with the grind on your toeside than point the nose at an angle towards it.",
+                        "controls": "T_TL"
+                    },
+                    {
+                        "name": "FS Overcrooks",
+                        "description": "Approach frontside, point the nose down and angle away from the grind.",
+                        "controls": "T_TR"
+                    },
+                    {
+                        "name": "BS Overcrooks",
+                        "description": "Similar to a Crooks, but the board is angled to the far side of the grind.",
+                        "controls": "T_TL"
+                    },
+                    {
+                        "name": "FS Salad",
+                        "description": "Approach Frontside and pull back on an angle or twist from a 5-0 grind.",
+                        "controls": "T_BR"
+                    },
+                    {
+                        "name": "BS Salad",
+                        "description": "A Salad Grind is a tweaked 5-0 grind with the nose of the board angled to the far side of the grind.",
+                        "controls": "T_BL"
+                    },
+                    {
+                        "name": "BS Smith",
+                        "description": "Another way to get into Smith Grinds is do a 5-0 then let go of the board ot let the nose drop down.",
+                        "controls": "TC9_TL"
+                    },
+                    {
+                        "name": "FS Smith",
+                        "description": "Smith grinds can be hard to get into. Point the nose and then turn just a little just before your land.",
+                        "controls": "TC9_TR"
+                    },
+                    {
+                        "name": "BS Feeble",
+                        "description": "Approach backside, point the nose and turn just a little across the grind.",
+                        "controls": "TC9_TR"
+                    },
+                    {
+                        "name": "FS Feeble",
+                        "description": "Feeble is the name, like it or not. Similar to a Smith, but the nose of the board is on the opposite side of the grind.",
+                        "controls": "TC9_TL"
+                    },
+                    {
+                        "name": "BS Willy",
+                        "description": "Willy Grinds are generally done by accident, but you can learn to do them on purpose.",
+                        "controls": "TC9_BR"
+                    },
+                    {
+                        "name": "FS Willy",
+                        "description": "Approach frontside and get just your front truck onto the grind or let the Crooks drop down.",
+                        "controls": "TC9_BL"
+                    },
+                    {
+                        "name": "BS Over Willy",
+                        "description": "The name is debatable. It could also be called a Feeble Willy.",
+                        "controls": "TC9_BL"
+                    },
+                    {
+                        "name": "FS Over Willy",
+                        "description": "Front truck grind with the back truck hanging over the far side.",
+                        "controls": "TC9_BR"
+                    }
+                ]
+            },
+            {
+                "name": "Slides",
+                "description": "Any grind where the board slides on a rail or ledge.",
+                "sub_items": [
+                    {
+                        "name": "FS Board",
+                        "description": "Approach with the grind then turn the board or your body sideways to land onto he middle of the board.",
+                        "controls": "T_L"
+                    },
+                    {
+                        "name": "BS Board",
+                        "description": "Approach with the grind then turn the board or your body sideways to land onto he middle of the board.",
+                        "controls": "T_R"
+                    },
+                    {
+                        "name": "FS Lip",
+                        "description": "Lipslide is like a boardslide, but the tail of the board swings over to the far side.",
+                        "controls": "T_R"
+                    },
+                    {
+                        "name": "BS Lip",
+                        "description": "Lipslide is like a boardslide, but the tail of the board swings over to the far side.",
+                        "controls": "T_L"
+                    },
+                    {
+                        "name": "BS Nose",
+                        "description": "To land onto your nose, push the board forward then swing the nose towards the grind.",
+                        "controls": "TC_TR"
+                    },
+                    {
+                        "name": "FS Nose",
+                        "description": "To land onto your nose, push the board forward then swing the nose towards the grind.",
+                        "controls": "TC_TL"
+                    },
+                    {
+                        "name": "BS Tail",
+                        "description": "You can land directly into tail slides or turn into them from other grinds.",
+                        "controls": "TC_BR"
+                    },
+                    {
+                        "name": "FS Tail",
+                        "description": "You can land directly into tail slides or turn into them from other grinds.",
+                        "controls": "TC_BL"
+                    },
+                    {
+                        "name": "FS Noseblunt",
+                        "description": "Similar to a Nose Slide, but the board swings to the far side. Nice.",
+                        "controls": "TC_TR"
+                    },
+                    {
+                        "name": "BS Noseblunt",
+                        "description": "Line up the grind, push the nose down and swing it to the toeside.",
+                        "controls": "TC_TL"
+                    },
+                    {
+                        "name": "BS Blunt",
+                        "description": "Approach backside, pull the board backward then swing the tail towards your toeside.",
+                        "controls": "TC_BL"
+                    },
+                    {
+                        "name": "FS Blunt",
+                        "description": "Blunt Slide isl ike a tail slide, but the board is on the far side of the grind from the approach.",
+                        "controls": "TC_BR"
+                    }
+                ]
+            },
+            {
+                "name": "Grind Grabs",
+                "description": "Mix in a few board grabs while grinding.",
+                "sub_items": [
+                    {
+                        "name": "FS Grab BS 50-50",
+                        "description": "Backside approach with a Frontside Grab.",
+                        "controls": "LT"
+                    },
+                    {
+                        "name": "BS Grab BS 50-50",
+                        "description": "You can land your grabs straight into these grind grabs or add a grab while grinding.",
+                        "controls": "RT"
+                    },
+                    {
+                        "name": "BS Grab FS 50-50",
+                        "description": "Reminder that a BS Grab is done with your front hand.",
+                        "controls": "RT"
+                    },
+                    {
+                        "name": "FS Grab FS 50-50",
+                        "description": "Double Frontsides. Frontside approach with a Frontside Grab.",
+                        "controls": "LT"
+                    },
+                    {
+                        "name": "FS Grab BS 5-0",
+                        "description": "Grab your 5-0 Grind or just tilt your 50-50 Grab up.",
+                        "controls": "T_B + LT"
+                    },
+                    {
+                        "name": "Nose Grab BS 5-0",
+                        "description": "Use your front hand to grab the nose.",
+                        "controls": "T_B + RT"
+                    },
+                    {
+                        "name": "FS Grab FS 5-0",
+                        "description": "Double Frontsides. Frontside approach with a Frontside Grab.",
+                        "controls": "T_B + LT"
+                    },
+                    {
+                        "name": "Nose Grab FS 5-0",
+                        "description": "Approach frontside, land on your back truck then grab with your front hand. Easy enough.",
+                        "controls": "T_B + RT"
+                    },
+                    {
+                        "name": "FS Grab FS Salad",
+                        "description": "Land into it, grab during it or turn into from a 5-0 FS Grab.",
+                        "controls": "T_BR + LT"
+                    },
+                    {
+                        "name": "Nose Grab FS Salad",
+                        "description": "Get into a FS Salad rthen grab the nose of the board.",
+                        "controls": "T_BR + RT"
+                    },
+                    {
+                        "name": "FS Grab BS Salad",
+                        "description": "Land into it, grab during it or turn into from a 5-0 FS Grab.",
+                        "controls": "T_BL + LT"
+                    },
+                    {
+                        "name": "Nose Grab BS Salad",
+                        "description": "Learn the Backside Salad then add a Nose Grab.",
+                        "controls": "T_BL + RT"
+                    },
+                    {
+                        "name": "BS Grab BS Nose Grind",
+                        "description": "Not very stylish, but it gets the job done.",
+                        "controls": "T_T + RT"
+                    },
+                    {
+                        "name": "Tail Grab BS Nose Grind",
+                        "description": "Push the board forward to land on the front truck, then grab with your back hand.",
+                        "controls": "T_T + LT"
+                    },
+                    {
+                        "name": "BS Grab FS Nose Grind",
+                        "description": "Get into a Nose Grind then grab with your front hand.",
+                        "controls": "T_T + RT"
+                    },
+                    {
+                        "name": "Tail Grab FS Nose Grind",
+                        "description": "Frontside approach into a Nose Grind then grab the tail.",
+                        "controls": "T_T + LT"
+                    },
+                    {
+                        "name": "BS Grab FS Crooks",
+                        "description": "Get into a Crooked Grind then grab with your front hand.",
+                        "controls": "T_TL + RT"
+                    },
+                    {
+                        "name": "Tail Grab FS Crooks",
+                        "description": "Land into it, grab during it or turn into from a Nose Grind Tail Grab.",
+                        "controls": "T_TL + LT"
+                    },
+                    {
+                        "name": "BS Grab BS Crooks",
+                        "description": "Just a simple Backside Grab during a backside Crooked Grind. Easy.",
+                        "controls": "T_TR + RT"
+                    },
+                    {
+                        "name": "Tail Grab BS Crooks",
+                        "description": "Approach Backside, point the nose at an angle then grab the tail.",
+                        "controls": "T_TR + LT"
+                    },
+                    {
+                        "name": "Tail Grab FS Overcrooks",
+                        "description": "Frontside approach, angle the board into the grind then grab with your back hand.",
+                        "controls": "T_TR + LT"
+                    },
+                    {
+                        "name": "BS Grab FS Overcrooks",
+                        "description": "Just grab with your front hand during your FS Overcrooks.",
+                        "controls": "T_TR + RT"
+                    },
+                    {
+                        "name": "Tail Grab BS Overcrooks",
+                        "description": "Land into it, grab during it or turn into from a Nose Grind Tail Grab.",
+                        "controls": "T_TL + LT"
+                    },
+                    {
+                        "name": "BS Grab BS Overcrooks",
+                        "description": "There are lots of variations now that you can grab during grinds.",
+                        "controls": "T_TL + RT"
+                    },
+                    {
+                        "name": "Tail Grab BS Nose Slide",
+                        "description": "Backside approach into a Nose Slide then grab with your back hand.",
+                        "controls": "TC_TR + LT"
+                    },
+                    {
+                        "name": "Tail Grab FS Nose Slide",
+                        "description": "Master the Nose Slide then just grab onto the tail.",
+                        "controls": "TC_TL + LT"
+                    },
+                    {
+                        "name": "Tail Grab BS Noseblunt",
+                        "description": "Backside Nose Blunts are stylish. Now you can also grab the tail.",
+                        "controls": "TC_TL + LT"
+                    },
+                    {
+                        "name": "Nose Grab BS Blunt",
+                        "description": "Backside approach into a Blunt then grab with your front hand.",
+                        "controls": "TC_BL SQ RT"
+                    },
+                    {
+                        "name": "Tail Grab FS Noseblunt",
+                        "description": "Approach Frontside, point the nose down, swing it into position then just grab the tail.",
+                        "controls": "TC_TR + LT"
+                    },
+                    {
+                        "name": "Nose Grab FS Tail Slide",
+                        "description": "Master the tail slide and add a Nose Grab.",
+                        "controls": "TC_BL + RT"
+                    },
+                    {
+                        "name": "Nose Grab BS Tail Slide",
+                        "description": "Land into it, grab during the tail slide or twist into it from 5-0 Nose Grab.",
+                        "controls": "TC_BR + RT"
+                    },
+                    {
+                        "name": "Nose Grab FS Blunt",
+                        "description": "You have to land straight into blunts. Now grab the Nose.",
+                        "controls": "TC_BR + RT"
+                    }
+                ]
+            },
+            {
+                "name": "Darkslides",
+                "description": "Catch the board upside down and slide on a rail to execute a darkslide.",
+                "sub_items": [
+                    {
+                        "name": "FS Dark Slide",
+                        "description": "Darkslides are done by performing a darkcatch and landing on a rail or ledge.",
+                        "controls": "RB + K_BR"
+                    },
+                    {
+                        "name": "FS Darkslide Tail Grab",
+                        "description": "Once you are in a darkslide, you can grab the board to style out your Darkslides.",
+                        "controls": "RB + K_BR SQ LT"
+                    },
+                    {
+                        "name": "FS Dark Slide Nose Grab",
+                        "description": "Once you are in a darkslide, you can grab the board to style out your Darkslides.",
+                        "controls": "RB + K_BR SQ RT"
+                    },
+                    {
+                        "name": "BS Bark Slide Nose Grab",
+                        "description": "Once you are in a darkslide, you can grab the board to style out your Darkslides.",
+                        "controls": "RB + K_BR SQ RT"
+                    },
+                    {
+                        "name": "FS Dark Slide Double Grab",
+                        "description": "Once you are in a darkslide, you can grab the board to style out your Darkslides.",
+                        "controls": "LB + K_BR SQ RT + LT"
+                    },
+                    {
+                        "name": "BS Dark Slide Tail Grab",
+                        "description": "Once you are in a darkslide, you can grab the board to style out your Darkslides.",
+                        "controls": "RB + K_BR SQ RT"
+                    },
+                    {
+                        "name": "BS Dark Slide",
+                        "description": "Darkslides are done by performing a darkcatch and landing on a rai or ledge.",
+                        "controls": "RB + K_BR"
+                    },
+                    {
+                        "name": "BS Dark Slide Double Grab",
+                        "description": "Once you are in a darkslide, you can grab the board to style out your Darkslides.",
+                        "controls": "RB + K_BR SQ LT + RT"
+                    }
+                ]
+            },
+            {
+                "name": "Hand Plants",
+                "description": "Handplants are also called inverts.",
+                "sub_items": [
+                    {
+                        "name": "FS Handplant",
+                        "description": "Skate up a transition at a slight angle and hold the button as you approach the edge. Too fast or too much of an angle and you'll air out.",
+                        "controls": "RB"
+                    },
+                    {
+                        "name": "BS Handplant",
+                        "description": "BS is Backside. Skate up a ramp at a slight angle towards your toe side, so the top of the ramp is slightly to your backside.",
+                        "controls": "RB"
+                    },
+                    {
+                        "name": "FS Tailbone Plant",
+                        "description": "Get into the FS Handplant and tweak your board in the same direction.",
+                        "controls": "RB + T_B"
+                    },
+                    {
+                        "name": "FS Tuck Knee Plant",
+                        "description": "Push the board forward during a BS Handplant to hit the Nosebone.",
+                        "controls": "RB + T_L"
+                    },
+                    {
+                        "name": "Stiffy Handplant",
+                        "description": "Push the board forward during a FS Handplant to hit the Nosebone. Handplants are also called Inverts.",
+                        "controls": "RB + T_R"
+                    },
+                    {
+                        "name": "FS Boned Plant",
+                        "description": "Get into the FS Handplant and tweak the board behind you.",
+                        "controls": "RB + T_T"
+                    },
+                    {
+                        "name": "BS Tuck Knee Plant",
+                        "description": "Pull the board down to drop the knee.",
+                        "controls": "RB + T_B"
+                    },
+                    {
+                        "name": "Crossbone Handplant",
+                        "description": "Push the board forward during a BS Handplant to hit the Nosebone.",
+                        "controls": "RB + T_L"
+                    },
+                    {
+                        "name": "Method Handplant",
+                        "description": "Tweak the board to the in front of  your to style it out.",
+                        "controls": "RB + T_R"
+                    },
+                    {
+                        "name": "Tweak Plant",
+                        "description": "Tweak the board behind you to arch out a method.",
+                        "controls": "RB + T_T"
+                    },
+                    {
+                        "name": "One Foot Plant",
+                        "description": "As good a name as any for kicking off your back foot during a BS Handplant.",
+                        "controls": "RB + X"
+                    },
+                    {
+                        "name": "Judo Handplant",
+                        "description": "Kick out your front foot during the BS Handplant.",
+                        "controls": "RB + A"
+                    },
+                    {
+                        "name": "Frigid Plant",
+                        "description": "Kick off your back foot.",
+                        "controls": "RB + X"
+                    },
+                    {
+                        "name": "FS One Foot Plant",
+                        "description": "Kick off your front foot.",
+                        "controls": "RB + A"
+                    },
+                    {
+                        "name": "FS Gymnast Plant",
+                        "description": "Artist interpretation of a FS Gymnast Plant. Just kick off both feet.",
+                        "controls": "RB + B"
+                    },
+                    {
+                        "name": "Gymnast Plant",
+                        "description": "Kick off both feet during a BS Handplant.",
+                        "controls": "RB + B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Manuals",
+        "description": "Manuals at one time were called wheelies.",
+        "sub_items": [
+            {
+                "name": "Manual",
+                "description": "Pull your board partway back and find the sweet spot. If you go too far you will get ready for an ollie, so let go and try again.",
+                "controls": "RS_D"
+            },
+            {
+                "name": "Nose Manual",
+                "description": "Push your board partway forward and find the sweet spot. With practice you can find it and land straight into manuals.",
+                "controls": "RS_U"
+            }
+        ]
+    },
+    {
+        "name": "Hall of Meat",
+        "description": "All the Hall of Meat actions you'll ever need.",
+        "sub_items": [
+            {
+                "name": "Intentional Wipeout",
+                "description": "Press these at the same time to wipeout. In the air during a wipeout you can control your body and tweak into different positions.",
+                "controls": "L3 + R3 + LT + RT"
+            },
+            {
+                "name": "Cannonball",
+                "description": "During a wipeout push forward to tuck yourself into a Cannonball. Tucking up will also help you spin or flip faster.",
+                "controls": "RS_U"
+            },
+            {
+                "name": "Spread Eagle",
+                "description": "During a wipeout pull down to spread out your arms and legs. This will slow down your spin or flip. It can also be used for gliding.",
+                "controls": "RS_D"
+            },
+            {
+                "name": "Torpedo",
+                "description": "During a wipeout tweak to the left to get yourself into a Torpedo.",
+                "controls": "RS_L"
+            },
+            {
+                "name": "Judo Kick",
+                "description": "During a wipeout tweak to the right to get into a Judo Kick pose then see if you can line up a target.",
+                "controls": "RS_R"
+            },
+            {
+                "name": "Push Off",
+                "description": "Use push-offs to extend your bails by pushing off the ground with your feet. For best results, push-off when upright in a cannonball pose!",
+                "controls": "RT"
+            }
+        ]
+    },
+    {
+        "name": "Other Tricks",
+        "description": "Hippy Jumps, Coffins, Wallrides, and more. Here's the how-to.",
+        "sub_items": [
+            {
+                "name": "No-Comply",
+                "description": "Push with your front foot then very quickly do an ollie. Very quickly.",
+                "controls": "A SQ O_U"
+            },
+            {
+                "name": "Hippy Jump",
+                "description": "Press and release both feet to jump. Hold longer for a higher jump.",
+                "controls": "X + A"
+            },
+            {
+                "name": "Pumping",
+                "description": "Pump corners and transitions to gan speed or boost bigger airs.",
+                "controls": "LT OR RT"
+            },
+            {
+                "name": "Coffin",
+                "description": "Early skate trick that is good for slipping through tight spots. Double grab then kick off both geet. Also works in the air.",
+                "controls": "LT + RT + X + A"
+            },
+            {
+                "name": "Brake",
+                "description": "Press and hold the button to slow yourself down. If you want to.",
+                "controls": "B"
+            },
+            {
+                "name": "Powerslide",
+                "description": "While moving, pull straight down or pull down from a turn to do a powerslide. Experiment with different angles, speeds and tricks.",
+                "controls": "LS_D"
+            },
+            {
+                "name": "Revert",
+                "description": "A revert is a quick 180 powerslide. With the left stick moved to the left or right, quickly move it down and around to the other side.",
+                "controls": "RVT"
+            },
+            {
+                "name": "Front Flip",
+                "description": "Your flips will be straight or off to the side depending on the angle you start them.",
+                "controls": "LT OR RT + LS_U"
+            },
+            {
+                "name": "Back Flip",
+                "description": "Start grabbing the board and pull down just as you take off into the air to start a back flip. Let go at the right time to land.",
+                "controls": "LT OR RT + LS_D"
+            },
+            {
+                "name": "Wallride",
+                "description": "To ride a wall, simply land your skater on a wall and ride it."
+            },
+            {
+                "name": "Skitching",
+                "description": "Hold the button when behind a vehicle to skitch. If it's too far away keep holding the button as you approach to make the car slow down.",
+                "controls": "RB"
+            },
+            {
+                "name": "Release Darkcatch",
+                "description": "Need to get out of a Darkcatch and there's no rail or ledge below you? Just press the button again to flip your board upright.",
+                "controls": "RB"
+            }
+        ]
+    },
+    {
+        "name": "Offboard Actions",
+        "description": "Want to have fun while you are off your board? Check out this step by step guide.",
+        "sub_items": [
+            {
+                "name": "Drop ins",
+                "description": "Use drop-ins to enter bowls and pools in style. Walk up to the coping and mount your board.",
+                "controls": "Y"
+            },
+            {
+                "name": "Acid Drop",
+                "description": "From offboard, run and jump, amd quickly place your board under your feet while you are in the air.",
+                "controls": "X SQ Y"
+            },
+            {
+                "name": "Caveman",
+                "description": "From offboard, run towards a rail, jump, and then quickly put your board under your feet before you land on the rail.",
+                "controls": "X SQ Y"
+            },
+            {
+                "name": "Mount and Dismount",
+                "description": "You can dismount your board at almost anytime. On the ground, in the air and mid-trick. Grab onto it first if you don't want it to fly away.",
+                "controls": "Y"
+            },
+            {
+                "name": "Walk",
+                "description": "Getting off board lets you get to places you can't while skating. Hint: Look for stairs.",
+                "controls": "LS_U"
+            },
+            {
+                "name": "Sprint",
+                "description": "No world records here, but spring does help you go just a little faster when you are off board.",
+                "controls": "LS_U + A"
+            },
+            {
+                "name": "Jump",
+                "description": "Hit the button to jump while off your board.",
+                "controls": "X"
+            },
+            {
+                "name": "Punch / Swing Board",
+                "description": "Did you know? You can punch or swing your board at people and skaters to try and knock them down.",
+                "controls": "RB"
+            }
+        ]
+    },
+    {
+        "name": "Terminology",
+        "description": "Some definitions for those who might be wondering what a Hubba is.",
+        "sub_items": [
+            {
+                "name": "Frontside & Backside",
+                "description": "FS stands for frontside. BS stands for Backside. Referring to the side that a trick is done on or how the skater approaches an obstacle."
+            },
+            {
+                "name": "Fakie",
+                "description": "Fakie is when a skater is riding backwards or a trick that is done while backwards."
+            },
+            {
+                "name": "Switch",
+                "description": "Switch is when a skater is riding in the opposite stance from how they normally ride."
+            },
+            {
+                "name": "Bank",
+                "description": "A bank is a flat angled surface good for doing tricks on."
+            },
+            {
+                "name": "Coping",
+                "description": "Coping is the grindable edge at the top of a transition, including pools and halfpipes. That is where you can do handplants."
+            },
+            {
+                "name": "Drop",
+                "description": "A drop is a big change in vertical height, airing off and dropping a long distance. The bigger the drop the bigger the points."
+            },
+            {
+                "name": "Gap",
+                "description": "An air between two points over something in between, oincluding an air over grass, between two ramps or over a set of stairs."
+            },
+            {
+                "name": "Hubba",
+                "description": "Hubba is a type of ledge, a steep, fat ledge that slopes doen besides a set of stairs, bank, transition or gap."
+            },
+            {
+                "name": "Ledge",
+                "description": "Ledge is a square edge that a grind ca be done on."
+            },
+            {
+                "name": "Manny Pad",
+                "description": "Manny Pad is raised surface that is good for doing manual tricks across."
+            },
+            {
+                "name": "Rails",
+                "description": "Rails come in many sizes and shapes, but they are all skinny things to grind."
+            },
+            {
+                "name": "Step-up",
+                "description": "Step Up is when a skater airs up to a higher landing point. The higher the Step Up the higher the points."
+            },
+            {
+                "name": "Transfer",
+                "description": "A Transfer is when a skater airs to a different riding area, including a transfer over a spine or from one ramp to another."
+            },
+            {
+                "name": "Transition / Tranny",
+                "description": "Transition is a curved surface and is also a style of skating that includes pools, halfpipes and bowls. Any transition can be used for pumping."
+            }
+        ]
+    }
+]
